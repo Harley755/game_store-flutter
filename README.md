@@ -11,7 +11,7 @@ A new Flutter project.
     <img width="200"
     heigth="500"
       alt="Home Screen"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_1.png"
+      src="https://github.com/Harley755/game_store-flutter/blob/master/assets/screenshots/Screenshot_1.png"
     />
   </a>
  
@@ -19,33 +19,20 @@ A new Flutter project.
     <img width="200"
     heigth="500"
       alt="Detail Screen"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_2.png"
+      src="https://github.com/Harley755/game_store-flutter/blob/master/assets/screenshots/Screenshot_2.png"
     />
   </a>
-  <a href="#" >
-    <img width="200"
-    heigth="500"
-      alt="Detail Screen • Product added"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_3.png"
-    />
-  </a>
-  <a href="#" >
-    <img width="200"
-    heigth="500"
-      alt="Cart Screen"
-      src="https://github.com/Harley755/online_bag_shop-flutter/blob/master/assets/screenshots/screenshot_4.png"
-    />
-  </a>
- 
+
 </div>
 
 ## Getting Started
 
 Run the following commands to start project configuration : 
 ```
-git clone https://github.com/Harley755/online_bag_shop-flutter.git
-cd online_bag_shop-flutter
+git clone https://github.com/Harley755/game_store-flutter.git
+cd game_store-flutter
 flutter pub get
+flutter run
 ```
 
 For help getting started with Flutter development, view the
